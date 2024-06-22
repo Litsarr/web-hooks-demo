@@ -7,7 +7,7 @@ const Content = () => {
 
     return (
         <div style={{ background: theme === 'light' ? '#f9f9f9' : '#555', color: theme === 'light' ? '#000' : '#fff', padding: '20px' }}>
-            <p>AMERICA YA!</p>
+            <p>AMERICA YA!skjbkjsad</p>
         </div>
     );
 };
